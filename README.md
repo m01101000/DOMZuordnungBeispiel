@@ -1,3 +1,3 @@
 # DOMZuordnungBeispiel
 
-![img](image/beispiel.jpg)
+![img](image/beispiel.png)
